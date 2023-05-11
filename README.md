@@ -76,15 +76,15 @@ plt.axis('off')
 
 ### Display the input Image
 
-![output](./1.png)
+![output](./11.1.png)
 
 ### Display the result of Opening
 
-![output](./2.png)
+![output](./11.2.png)
 
 ### Display the result of Closing
 
-![output](./3.png)
+![output](./11.3.png)
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
