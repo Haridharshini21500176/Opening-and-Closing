@@ -33,15 +33,14 @@ Use Closing Operation.
 <br>
 
 ## Program:
-
-
+```
 Developed by: HariDharshini.S
 Reg No: 212221230033
 
-
+```
  
 # Import the necessary packages
-
+```
 import numpy as np
 import matplotlib.pyplot as plt
 import cv2
@@ -72,7 +71,7 @@ closing_image = cv2.morphologyEx(text_image,cv2.MORPH_CLOSE,kernel)
 plt.title("Closing")
 plt.imshow(closing_image)
 plt.axis('off')
-
+```
 ## Output:
 
 ### Display the input Image
